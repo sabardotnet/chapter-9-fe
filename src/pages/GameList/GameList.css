@@ -1,0 +1,21 @@
+.list {
+  row-gap: 1rem;
+}
+
+.gameList {
+  min-height: 100vh !important;
+  background: url('../public/background1.jpeg') no-repeat !important;
+  background-size: cover !important;
+  background-position: center !important;
+  background-repeat: no-repeat !important;
+  color: aliceblue !important;
+}
+
+.game-detail {
+  min-height: 100vh;
+  background: url('../public/background1.jpeg') no-repeat !important;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: aliceblue;
+}
